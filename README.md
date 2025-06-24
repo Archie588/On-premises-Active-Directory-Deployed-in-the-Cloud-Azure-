@@ -71,6 +71,6 @@ This screenshot shows that Active Directory can be used to set Group Policy Mana
 
 </p>
 <p>
-The Active Directory Users and Computers allows systems Admins to configure password policy and accout lockout policy using - group policy management, under "Default Domain Policy" and "Account Lockout Policy" as shown here on the screenshot.
+The Active Directory Users and Computers allows systems Admins to configure password policy and account lockout policy using - group policy management, under "Default Domain Policy" and "Account Lockout Policy" as shown here on the screenshot.
 </p>
 <br />
